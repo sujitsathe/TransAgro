@@ -25,4 +25,7 @@ TransAgro is a **Flask-based web application** that allows **farmers to book tra
 
 ---
 
+## Author
+This project is created by **Sujit Sathe**  
+Email: [sujitsathe11@gmail.com](mailto:sujitsathe11@gmail.com)
 
